@@ -17,6 +17,7 @@ This repository contains a series of microservices developed in Java as part of 
 - RESTful APIs
 - Docker
 - JUnit for testing
+- MySQL and NoSQL MongoDB for database integration
 
 ## How to Run
 
